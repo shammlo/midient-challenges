@@ -1,0 +1,25 @@
+{
+    "name": "midient-challenges",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shammlo/midient-challenges.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shammlo/midient-challenges/issues"
+    },
+    "homepage": "https://github.com/shammlo/midient-challenges#readme",
+    "devDependencies": {
+        "@types/jest": "^27.5.0",
+        "jest": "^28.1.0",
+        "ts-jest": "^28.0.2",
+        "typescript": "^4.6.4"
+    }
+}
